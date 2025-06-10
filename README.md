@@ -19,4 +19,5 @@ I am passionate about leveraging technology to solve real-world problems and cre
 
 ## 🌟 Key Skills
 
+Tech Stack: ![react](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png)
 
